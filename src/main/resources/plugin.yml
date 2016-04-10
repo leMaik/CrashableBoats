@@ -1,0 +1,3 @@
+name: CrashableBoats
+main: de.craften.plugins.crashableboats.CrashableBoats
+version: VERSION
